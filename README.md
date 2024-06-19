@@ -12,6 +12,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🎓 Bachelor's degree in Software Engineering at National University of "Kyiv-Mohyla Academy"
+- 🎓 Masters's degree in Artificial Intelligence at National University of "Kyiv-Mohyla Academy"
 - 🔭 Work Experience: 1. Full-Stack dev; 2. SysAdmin; 3. Customer Support Team Lead. 
 - 📫 How to reach me: mikkicon@gmail.com
